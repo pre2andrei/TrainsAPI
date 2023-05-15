@@ -1,0 +1,9 @@
+@import './base.css';
+
+main{
+    padding: 10px;
+    margin-left: 200px;
+  display: flex;
+  flex-direction: column;
+  width: calc(100vw - 200px);
+}
